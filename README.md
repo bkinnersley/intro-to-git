@@ -8,3 +8,7 @@ TEST5
 
 # Project summary
 This is a summary of the project
+
+# Project scripts
+test_script.py
+add_script.py
